@@ -1,3 +1,75 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+/* ==========================================================================
+   ENCICLOPEDIA COSMERE - PALETA DE COLORES CALIBRADA (Luzdeplata UX)
+   ========================================================================== */
+
+@mixin color-tag($color) {
+  border: 1px solid $color !important;
+  color: $color !important;
+  background-color: rgba($color, 0.08) !important;
+  font-weight: 500;
+  
+  &:hover {
+    background-color: rgba($color, 0.15) !important;
+  }
+}
+
+/* Esquirlas y Energías */
+.tag-conservacion { @include color-tag(#E2E8F0); }
+.tag-ruina        { @include color-tag(#1E293B); }
+.tag-honor        { @include color-tag(#60A5FA); }
+.tag-cultivacion  { @include color-tag(#34D399); }
+.tag-odium        { @include color-tag(#F59E0B); }
+.tag-virtuosismo  { @include color-tag(#06B6D4); }
+.tag-corrupta     { @include color-tag(#EF4444); }
+
+/* Planetas */
+.tag-scadrial     { @include color-tag(#B91C1C); }
+.tag-roshar       { @include color-tag(#475569); }
+.tag-taldain      { @include color-tag(#FCD34D); }
+.tag-nalthis      { @include color-tag(#A855F7); }
+.tag-treno        { @include color-tag(#0F766E); }
+
+/* Órdenes Radiantes */
+.tag-corredores-del-viento  { @include color-tag(#3B82F6); }
+.tag-rompedores-del-cielo   { @include color-tag(#64748B); }
+.tag-portadores-del-polvo   { @include color-tag(#EF4444); }
+.tag-danzantes-del-filo     { @include color-tag(#E0E7FF); }
+.tag-vigilantes-de-la-verdad{ @include color-tag(#10B981); }
+.tag-tejedores-de-luz       { @include color-tag(#BE123C); }
+.tag-nominadores-de-lo-otro { @include color-tag(#4F46E5); }
+.tag-escultores-de-voluntad { @include color-tag(#A855F7); }
+.tag-custodios-de-la-piedra { @include color-tag(#D97706); }
+.tag-forjadores-de-vinculos { @include color-tag(#EAB308); }
+
+/* Callout WoB */
+.callout[data-callout="wob"] {
+  --color: #F59E0B;
+  --border-color: rgba(#F59E0B, 0.5);
+  --bg-color: rgba(#F59E0B, 0.05);
+  border: 1px solid var(--border-color);
+  background-color: var(--bg-color);
+
+  > .callout-title {
+    color: var(--color);
+    border-bottom: 1px solid var(--border-color);
+    > .callout-icon svg path { d: "M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"; }
+  }
+}
+
+/* Callout Investidura */
+.callout[data-callout="investidura"] {
+  --color: #06B6D4;
+  --border-color: rgba(#06B6D4, 0.5);
+  --bg-color: rgba(#06B6D4, 0.05);
+  border: 1px solid var(--border-color);
+  background-color: var(--bg-color);
+  box-shadow: 0 0 10px rgba(#06B6D4, 0.1);
+
+  > .callout-title {
+    color: var(--color);
+    border-bottom: 1px solid var(--border-color);
+    > .callout-icon svg path { d: "M12 2c5.523 0 10 4.477 10 10s-4.477 10-10 10-10-4.477-10-10 4.477-10 10-10zm0-2c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm0 6c-3.313 0-6 2.687-6 6s2.687 6 6 6 6-2.687 6-6-2.687-6-6-6zm0 2c2.206 0 4 1.794 4 4s-1.794 4-4 4-4-1.794-4-4 1.794-4 4-4z"; }
+  }
+}

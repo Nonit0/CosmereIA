@@ -30,10 +30,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
+        { Component: Component.Search(), grow: true },
         { Component: Component.Darkmode() },
         { Component: Component.ReaderMode() },
       ],
@@ -41,9 +38,39 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    Component.Graph(),
+    Component.Graph({
+      localGraph: {
+        drag: true, zoom: true, depth: 2, scale: 1.1, repelForce: 0.8,
+        centerForce: 0.3, linkDistance: 40, fontSize: 0.6, opacityScale: 1,
+        colors: {
+          "corredores-del-viento": "#3B82F6", "tejedores-de-luz": "#BE123C", "vigilantes-de-la-verdad": "#10B981",
+          "scadrial": "#B91C1C", "roshar": "#475569", "nalthis": "#A855F7",
+          "odium": "#F59E0B", "honor": "#60A5FA"
+        }
+      },
+      globalGraph: {
+        drag: true, zoom: true, depth: -1, scale: 0.9, repelForce: 0.8,
+        centerForce: 0.3, linkDistance: 40, fontSize: 0.6, opacityScale: 1,
+      }
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
+  ],
+  // 👇 INYECCIÓN DE GISCUS AL FINAL DE CADA NOTA 👇
+  afterBody: [
+    Component.Comments({
+      provider: 'giscus',
+      options: {
+        repo: 'nonit0/CosmereIA',
+        repoId: 'R_kgDORmH95Q',
+        category: 'Announcements',
+        categoryId: 'DIC_kwDORmH95c4C4vXy',
+        mapping: 'pathname',
+        strict: false,
+        reactionsEnabled: true,
+        inputPosition: 'top',
+      }
+    }),
   ],
 }
 
@@ -55,10 +82,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
+        { Component: Component.Search(), grow: true },
         { Component: Component.Darkmode() },
       ],
     }),
