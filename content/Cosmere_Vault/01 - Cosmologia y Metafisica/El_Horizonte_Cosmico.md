@@ -10,11 +10,11 @@ draft: false
 > Las previsiones a futuro sobre el desarrollo galáctico del Cosmere, apuntando a una inminente colisión tecnológica y mágica entre los sistemas estelares.
 
 ## 📜 Canon Oficial
-El Cosmere se encamina de forma inexorable hacia su "Era Espacial" plena. Las visiones estipulan que entidades e imperios cruzarán el tejido espacial rompiendo definitivamente el aislamiento de los mundos.
+El Cosmere se encamina de forma inexorable hacia su "Era Espacial" plena. Con el avance de la tecnología basada en las Artes Investidas, civilizaciones como la Scadriana están desarrollando viajes superlumínicos en el Reino Físico, permitiendo el contacto y los conflictos interplanetarios sin depender de los pasajes del Reino Cognitivo.
 
 ---
 
 > [!warning]- 🕵️‍♂️ Teorías de la Comunidad y WoB
 > **Especulación (No Canon):** Las proyecciones teóricas del destino del universo se dividen actualmente en dos grandes corrientes:
-> * **"La Ecuación de la Resurrección":** Postula que Hoid está orquestando en secreto la reconstitución final y el renacimiento de Adonalsium mediante la absorción estratégica de Conexiones latentes a lo largo de los milenios.
+> * **"La Ecuación de la Resurrección":** Postula que Hoid está orquestando en secreto la reconstitución final y el renacimiento de Adonalsium mediante la absorción estratégica de todas las Artes Investidas y sabiendo la localización de las *Esquirlas del Amanecer*.
 > * **"La Guerra Fría del Cosmere":** Augura una carrera armamentística, balística y una potencial aniquilación mutua interplanetaria entre potencias como Scadrial y Roshar.

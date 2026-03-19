@@ -6,7 +6,6 @@ tags:
   - investidura
   - magia
 ---
-
 # 📜 Canon Oficial: Alientos Biocromáticos (Nalthis)
 
 Los **Alientos Biocromáticos** son la manifestación en estado gaseoso de la Investidura en el planeta [[Nalthis]], directamente asociados a la Esquirla Dotación. Todo individuo nalthiano nace con un Aliento innato, el cual puede ser transferido voluntariamente a otra persona o a un objeto.
