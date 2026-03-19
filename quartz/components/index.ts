@@ -51,3 +51,5 @@ export {
   Flex,
   ConditionalRender,
 }
+import SpoilerModal from "./SpoilerModal"
+export { SpoilerModal }

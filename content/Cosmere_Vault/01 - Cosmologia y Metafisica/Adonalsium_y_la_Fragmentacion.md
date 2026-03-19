@@ -21,3 +21,4 @@ La Fragmentación provocó que Intenciones opuestas que antes convivían en Adon
 
 > [!warning]- 🕵️‍♂️ Teorías de la Comunidad y WoB
 > **Especulación (No Canon):** Muchos eruditos (y facciones como la Decimoséptima Esquirla) postulan y debaten si Adonalsium orquestó el evento y permitió su propia destrucción como un "suicidio divino" necesario para introducir el libre albedrío en un universo previamente estático y determinista[cite: 1972, 2023]. Registros anómalos de la geología y las lunas de Roshar sugieren que dicho sistema fue un "laboratorio" diseñado intencionadamente por Adonalsium antes de su muerte, lo que implica que poseía una presciencia absoluta de la Fragmentación[cite: 1973].
+
