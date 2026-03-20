@@ -51,6 +51,13 @@ Aunque las elevaciones están definidas matemáticamente por un numero en espec�
 * Existen rumores sobre otros poderes conferidos por la Décima Elevación que, o bien no han sido comprendidos, o bien no han sido compartidos por aquellos que los han obtenido.
 * `#Elevaciones`
 
-> [!curio] Curiosidades
+> [!curio]- 🕵️‍♂️ Teorías de la Comunidad y WoB
 > - El modo en que tener más alientos hace que una persona experimente el mundo más vívido está inspirado en *La Rueda del Tiempo*.
 > - Las Elevaciones pueden replicarse si alguien está altamente Investido (ej: Esquirla del Amanecer).
+
+> [!wob]asd
+> asd
+
+> [!investidura]asd
+> as
+
