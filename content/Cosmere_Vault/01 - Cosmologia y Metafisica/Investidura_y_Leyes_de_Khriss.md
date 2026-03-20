@@ -7,12 +7,12 @@ draft: false
 # La Investidura y las Leyes de Khriss
 
 > [!abstract] Resumen
-> La Investidura es la tercera esencia fundamental del universo, junto con la materia y la energía. Es el constituyente base del alma y el motor de toda alteración metafísica o sistema de magia en el Cosmere.
+> La Investidura es la tercera esencia fundamental del universo, junto con la materia y la energía. Es el constituyente base del alma y el motor de toda alteración metafísica o [[Clasificacion_Artes_Investidas|sistema de magia]] en el Cosmere.
 
 ## 📜 Canon Oficial y Análisis Realmático
 La física de esta energía espiritual está regida por tres propiedades fundamentales que determinan cómo interactúa con los mortales:
 1. **Identidad:** El sello criptográfico del alma (quién eres).
-2. **Conexión:** El enchufe metafísico o lazo que te ata a astros, personas o Esquirlas (a qué estás atado).
+2. **Conexión:** El enchufe metafísico o lazo que te ata a astros, personas o [[Ontologia_de_las_Esquirlas|Esquirlas]] (a qué estás atado).
 3. **Intención:** Es la directriz cognitiva o voluntad necesaria para moldear la energía.
 
 ### Naturaleza y Estados:
@@ -24,7 +24,7 @@ Puede manifestarse en el Reino Físico en tres estados elementales:
     - Para su uso en las Artes Investidas, se clasifica en cuatro estados:
         - **Cinética:** Investidura cinética es un término utilizado para referirse a la Investidura que se está utilizando o expresando. Es la forma de Investidura que puede ser detectada por Buscadores o absorbida por arena blanca. La investidura que está en uso activo es aparentemente más difícil de consumir para los humanos,lo que no ocurre con todos los organismos que consumen Investidura (Un lanzamonedas cuando empuja un metal)
         - **Estática:** Investidura estática, también denominada Investidura potencial, es un término utilizado para la Investidura que se conserva en un recipiente como una gema, por lo que no está en uso. Un objeto que contiene o está compuesto por Investidura estática se denomina Investido. Los objetos Investidos, como las mentes de metal o las armaduras esquirladas, resisten el efecto de las Artes Investidas. La Investidura estática se utiliza a menudo como batería, ya que la Investidura almacenada puede convertirse posteriormente en energía para alimentar dispositivos, aunque algunas tecnologías son más eficientes que otras a la hora de hacerlo. La gema de un fabrial puede ser un ejemplo temprano de este uso.
-        - **Innata:** Investidura innata es un término utilizado para referirse a la Investidura incorporada a un ser desde su nacimiento, sin incluir la Investidura natural que constituye el alma. Ejemplos de Investidura Innata son el fragmento de Conservación en todos los Scadrianos, o el aliento biocromático en Nalthis. 
+        - **Innata:** Investidura innata es un término utilizado para referirse a la Investidura incorporada a un ser desde su nacimiento, sin incluir la Investidura natural que constituye el alma. Ejemplos de Investidura Innata son el fragmento de Conservación en todos los Scadrianos, o el aliento biocromático en Nalthis (Se miden en [[Unidad_Equivalente_al_Aliento|UEA]]). 
         - **No Vinculada:** Se refiere a la Investidura desligada de cualquier Identidad. Esto permite a cualquier persona con los poderes pertinentes acceder a ella como combustible para sus habilidades.
 
 ### Objetos Investidos
@@ -49,6 +49,7 @@ La erudita Khriss ha postulado leyes equivalentes a la termodinámica para la In
 ## ⚙️ Anti-Investidura y Acústica Realmática
 Los avances modernos han demostrado que la Investidura emite una resonancia ondulatoria fundamental (Tonos Puros y Ritmos). Al aislar la longitud de onda de un tono y emitirla en polaridad contraria, el patrón se invierte creando **Anti-Investidura**. El contacto directo entre un gas Investido y su correspondiente Anti-gas desencadena una aniquilación de materia espiritual inmediata, logrando obliterar de forma absoluta entidades inmortales.
 
+# Perpendicularidades
 ---
 
 > [!warning]- 🕵️‍♂️ Teorías de la Comunidad y WoB

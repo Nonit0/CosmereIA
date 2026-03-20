@@ -12,8 +12,8 @@ draft: false
 ## 📜 Canon Oficial
 El Cosmere es un cúmulo estelar en el Reino Físico regido por leyes metafísicas compartidas cuyo origen se remonta a Adonalsium. Hace milenios, en el planeta original de Yolen, un grupo de dieciséis individuos orquestaron la Fragmentación de esta deidad. 
 
-Para lograr este cataclismo, utilizaron las Esquirlas del Amanecer (*Dawnshards*), que son los cuatro Mandatos absolutos que Adonalsium usó originalmente para crear todas las cosas y que fueron esgrimidos para matarlo. Este acto descentralizó el poder divino, dividiéndolo en dieciséis Esquirlas (*Shards*) que fueron tomadas por los mortales, convirtiéndolos en deidades locales e instituyendo el conflicto cósmico por defecto.
-Sabemos que entidades milenarias como Hoid estuvieron presentes durante la Fragmentación, y se le ofreció una de estas esquirlas pero él rechazó tomar una de ellas.
+Para lograr este cataclismo, utilizaron las [[Esquirlas del Amanecer]] (*Dawnshards*), que son los cuatro Mandatos absolutos que Adonalsium usó originalmente para crear todas las cosas y que fueron esgrimidos para matarlo. Este acto descentralizó el poder divino, dividiéndolo en dieciséis [[Ontologia_de_las_Esquirlas#Las Dieciséis Esquirlas Originales|Esquirlas]] (*Shards*) que fueron tomadas por los mortales, convirtiéndolos en deidades locales e instituyendo el conflicto cósmico por defecto.
+Sabemos que entidades milenarias como [[Hoid_y_los_Saltamundos#Hoid (Cephandrius)|Hoid]] estuvieron presentes durante la Fragmentación, y se le ofreció una de estas esquirlas pero él rechazó tomar una de ellas.
 
 ## 🔗 Relaciones e Impacto Cósmico
 La Fragmentación provocó que Intenciones opuestas que antes convivían en Adonalsium (como Conservación y Ruina) operen ahora por separado y dominen las mentes de sus Recipientes (*Vessel*), deformándolas con el tiempo y volviéndose cada vez más afines a la Intencion de su Esquirla correspondiente (*Splint?*) .

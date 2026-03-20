@@ -11,13 +11,13 @@ draft: false
 > Es uno de los sistemas cuyas Artes Investidas son más conocidas a dia de hoy y que muestra una evolución directa desde la Edad Medieval hasta la Era Espacial.
 
 ## 📜 Canon Oficial (Creación Directa)
-A diferencia de mundos como Roshar o Sel, que ya existían previamente, Scadrial fue creado enteramente por el esfuerzo conjunto de dos Esquirlas: Preservación y Ruina. Esto implica un diseño geológico artificial, vida humana creada deliberadamente a imagen y semejanza de Yolen, y un frágil equilibrio entre entropía y estabilidad.
+A diferencia de la mayoría de mundos naturales como Roshar o Sel, Scadrial fue diseñado en conjunto por dos Esquirlas: Preservación y Ruina. Como una réplica deliberada del ecosistema original de Yolen. Su existencia física e histórica ha estado marcada por un ciclo de destrucción y preservación dictado por la pugna de sus deidades.
 
-- **El Reino Cognitivo:** Los alrededores de Scadrial en el subastral se manifiestan como una densa niebla o bruma intransitable, en marcado contraste con las cuentas vítreas que forman la topografía cognitiva de Roshar.
+- **El Reino Cognitivo:** Los alrededores de Scadrial en el subastral se manifiestan como una densa niebla o bruma intransitable, en marcado contraste con las cuentas vítreas que forman la topografía cognitiva de Roshar.- En este plano, el agua física se manifiesta como bruma densa y transitable, mientras que la tierra sólida es un vacío de humo.
     
-- **Evolución Tecnológica:**  Scadrial es, con gran diferencia, el planeta tecnológicamente más avanzado del Cosmere documentado; habiendo transitado desde una era de imperios impulsados por ceniza hasta el desarrollo de la electricidad, la pólvora y, finalmente, acercándose a los viajes estelares de la Era Espacial.
+- **Evolución Tecnológica:**  Scadrial es, con gran diferencia, el planeta tecnológicamente más avanzado del Cosmere documentado; habiendo transitado desde una era de imperio medieval impulsados por ceniza hasta el desarrollo de la electricidad, la pólvora y, finalmente, acercándose a los viajes estelares de la Era Espacial.
     
-- **Estado de las Esquirlas:** Tras los eventos del Catacentro (*Catacendre*), las Intenciones y el poder bruto de Conservación y Ruina fueron asimilados simultáneamente por el Recipiente Sazed, forjando la entidad dual conocida como Armonía.
+- **Estado de las Esquirlas:** Tras los eventos del [[Catacentro]] (*Catacendre*), las Intenciones y el poder bruto de Conservación y Ruina fueron asimilados simultáneamente por el Recipiente [[Sazed]], forjando la entidad dual conocida como [[Armonía]].
 ## ⏳ Cronología General del Sistema
 La historia sociopolítica de Scadrial se divide en Eras claramente diferenciadas:
 1. **Era Pre-Imperio:** Desarrollo inicial de la humanidad y primeras interacciones con la magia local.

@@ -21,7 +21,7 @@ Actúa como el molde del pensamiento y la percepción. A este plano se le conoce
 
 
 ### 3. El Reino Espiritual
-Es la matriz fundamental que existe más allá del espacio y el tiempo, donde todos los lugares convergen en uno solo. Este reino está compuesto íntegramente por Investidura, Conexiones e Identidad.
+Es la matriz fundamental que existe más allá del espacio y el tiempo, donde todos los lugares convergen en uno solo. Este reino está compuesto íntegramente por [[Investidura_y_Leyes_de_Khriss|Investidura]], Conexiones e Identidad.
 Alberga la redespíritu, el aspecto cuantificable y "modificable" del alma de una persona, junto con los siguientes atributos:
 * **Identidad:** El sello criptográfico del alma (quién eres).
 * **Conexión:** El enchufe metafísico o lazo que te ata a astros, personas o Esquirlas (a qué estás atado).

@@ -16,5 +16,5 @@ El Cosmere se encamina de forma inexorable hacia su "Era Espacial" plena. Con el
 
 > [!warning]- 🕵️‍♂️ Teorías de la Comunidad y WoB
 > **Especulación (No Canon):** Las proyecciones teóricas del destino del universo se dividen actualmente en dos grandes corrientes:
-> * **"La Ecuación de la Resurrección":** Postula que Hoid está orquestando en secreto la reconstitución final y el renacimiento de Adonalsium mediante la absorción estratégica de todas las Artes Investidas y sabiendo la localización de las *Esquirlas del Amanecer*.
+> * **"La Ecuación de la Resurrección":** Postula que [[Hoid_y_los_Saltamundos#Hoid (Cephandrius)|Hoid]] está orquestando en secreto la reconstitución final y el renacimiento de Adonalsium mediante la absorción estratégica de todas las Artes Investidas y sabiendo la localización de las *Esquirlas del Amanecer*.
 > * **"La Guerra Fría del Cosmere":** Augura una carrera armamentística, balística y una potencial aniquilación mutua interplanetaria entre potencias como Scadrial y Roshar.
