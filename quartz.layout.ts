@@ -69,6 +69,8 @@ export const defaultContentPageLayout: PageLayout = {
         strict: false,
         reactionsEnabled: true,
         inputPosition: 'top',
+// 👇 MAGIA AQUÍ: Usamos una ruta absoluta hacia tu GitHub Pages 👇
+        theme: 'https://nonit0.github.io/CosmereIA/static/giscus-cosmere.css',
       }
     }),
   ],
