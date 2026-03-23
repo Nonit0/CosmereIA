@@ -1,7 +1,14 @@
 ---
-title: "Scadrial: Cronología y Evolución"
-aliases: [Scadrial, Imperio Final, Nacidos de la Bruma]
-tags: [cosmere, planetas, scadrial, historia]
+title: Sistema Scadriano - Scadrial [Nacidos de la Bruma]
+aliases:
+  - Scadrial
+  - Imperio Final
+  - Nacidos de la Bruma
+tags:
+  - cosmere
+  - planetas
+  - scadrial
+  - historia
 draft: false
 ---
 # Scadrial: Cronología y Evolución
