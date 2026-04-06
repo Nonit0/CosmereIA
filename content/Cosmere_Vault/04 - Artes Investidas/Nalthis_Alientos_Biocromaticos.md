@@ -40,7 +40,7 @@ Aunque las elevaciones están definidas matemáticamente por un numero en espec�
 	* Se comportaría de forma extraña en aquellas personas con deficiencias en la visión de los colores u otras condiciones similares como la acromatopsia. La forma de interactuar con ello sería, supuestamente, agradable para las personas con esta condición
 
 * #### **[[#Cuarta Elevación|Cuarta Elevación]] (1.000 Alientos):** 
-	* La Cuarta Elevación confiere sentido vital perfecto, maximizando la habilidad de percibir instintivamente las personas a tu alrededor y de saber cuándo te están observando. También se pueden sentir plantas, como hierba o líquenes. El sentido vital también puede percibir a los [sprens](https://es.coppermind.net/wiki/Spren "Spren"), incluso aunque sean invisibles. Sin embargo los [[Alientos_Biocromaticos#Transferencia y "Apagados"|Apagados]] no son detectables.
+	* La Cuarta Elevación confiere sentido vital perfecto, maximizando la habilidad de percibir instintivamente las personas a tu alrededor y de saber cuándo te están observando. También se pueden sentir plantas, como hierba o líquenes. El sentido vital también puede percibir a los [sprens](https://es.coppermind.net/wiki/Spren "Spren"), incluso aunque sean invisibles. Sin embargo los [[Nalthis_Alientos_Biocromaticos#Transferencia y "Apagados"|Apagados]] no son detectables.
 	* Cualquiera con alientos tiene una pequeña cantidad de sentido vital, pero es imperfecto hasta la Cuarta Elevación
 	* Si un [[Aviar]] como [[Kokerlii]] estuviera cerca, interfería con el sentido vital de un Despertante. Las [[Clasificacion_Artes_Investidas#Alomancia|nubes de Cobre]] , un feruquímico almacenando una [[mentenicrosil]] completa con Investidura, y el [[aluminio]] también pueden bloquear el sentido vital. 
 
@@ -74,4 +74,3 @@ Aunque las elevaciones están definidas matemáticamente por un numero en espec�
 > - El modo en que tener más alientos hace que una persona experimente el mundo más vívido está inspirado en *La Rueda del Tiempo*.
 > - Las Elevaciones pueden replicarse si alguien está altamente Investido (ej: Esquirla del Amanecer).
 > - Alguien con la capacidad de hacer saltos espaciales, necesita al menos 20.000 UEAs de Investidura / 9ª Elevación para realizar un salto (con destino aleatorio)
- 
