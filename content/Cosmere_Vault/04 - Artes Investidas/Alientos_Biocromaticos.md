@@ -62,7 +62,7 @@ Aunque las elevaciones están definidas matemáticamente por un numero en espec�
 * #### **[[#Novena Elevación|Novena Elevación]] (20.000 Alientos):** 
 	* La Novena Elevación proporciona despertar superior, la habilidad de despertar piedra y acero, que permite crear entidades biocromáticas de *"tipo cuatro"* como **[[Sangre Nocturna]]**, aunque hacerlo requiere grandes Investiduras de aliento y Mandatos especializados. Esta habilidad se ha estudiado muy poco.
 	* La Novena Elevación también proporciona Mandato audible, la capacidad de despertar objetos sin tocarlos físicamente, pero que están dentro del alcance de la voz.
-
+- 
 * #### **[[#Decima Elevación|Décima Elevación]] (50.000 Alientos):** 
 	* La Décima Elevación confiere distorsión del color, la habilidad natural e intrínseca de diseminar la luz en torno a los objetos blancos con su biocroma, creando colores a partir de ellos como si fueran un prisma. No está claro si estos colores se pueden usar para alimentar el despertar. 
 	* La Décima Elevación también confiere invocación perfecta, la habilidad de extraer más color de los objetos que usa un despertante para alimentar su despertar. Esto deja los objetos blancos, en vez de grises. Combinado con la distorsión del color, un despertante puede generar una vista alucinante. Los objetos blancos no pueden decolorarse a gris.
