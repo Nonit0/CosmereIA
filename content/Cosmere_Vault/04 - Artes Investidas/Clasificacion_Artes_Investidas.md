@@ -23,15 +23,19 @@ Aunque no todos son afines a tenerlo, el caso más sencillo es:
 
 #### Ejemplos Documentados en el Cosmere
 
-- **Alomancia (Scadrial):** Requiere un proceso fisiológico y psicológico conocido como **Romper** (_Snapping_). El individuo debe ser sometido a un estrés físico o emocional extremo (como una paliza severa o una situación de vida o muerte) para forzar la fractura de la Redespíritu y despertar sus poderes alománticos latentes (si es que tiene gen alomante).
+- #### **Alomancia (Scadrial):**
+- Requiere un proceso fisiológico y psicológico conocido como **Romper** (_Snapping_). El individuo debe ser sometido a un estrés físico o emocional extremo (como una paliza severa o una situación de vida o muerte) para forzar la fractura de la Redespíritu y despertar sus poderes alománticos latentes (si es que tiene gen alomante).
     
-- **Potenciación (Roshar):** La formación del **Vínculo Nahel** requiere casi invariablemente una Redespíritu dañada. Los spren son atraídos por individuos con traumas psicológicos severos, ya que las "grietas" en su alma les proporcionan el punto de anclaje necesario para vincularse. Un caso de estudio prominente es el del Corredor del Viento [[Kaladin]], cuyos múltiples traumas —la muerte de su hermano Tien, la traición del brillante señor Amaram y ser convertido en esclavo con la marca *Shas*— crearon las fisuras necesarias para su vínculo.
+- #### **Potenciación (Roshar):** 
+- La formación del **Vínculo Nahel** requiere casi invariablemente una Redespíritu dañada. Los spren son atraídos por individuos con traumas psicológicos severos, ya que las "grietas" en su alma les proporcionan el punto de anclaje necesario para vincularse. Un caso de estudio prominente es el del Corredor del Viento [[Kaladin]], cuyos múltiples traumas —la muerte de su hermano Tien, la traición del brillante señor Amaram y ser convertido en esclavo con la marca *Shas*— crearon las fisuras necesarias para su vínculo.
     
-- **AonDor (Sel):** La llegada de la **Shaod**. Consiste en una transformación determinada por los restos de las Esquirlas Ambición y Dominio (ambas astilladas en el reino cognitivo) , tanto espiritual, física como cognitiva, que reescribe la conexión espiritual del individuo con la tierra para permitirle canalizar el Dor.
+- #### **AonDor (Sel):** 
+- La llegada de la **Shaod**. Consiste en una transformación determinada por los restos de las Esquirlas Ambición y Dominio (ambas astilladas en el reino cognitivo) , tanto espiritual, física como cognitiva, que reescribe la conexión espiritual del individuo con la tierra para permitirle canalizar el Dor.
     
 #### Excepciones a la Regla de la Fractura
 
-- **Despertar y Aliento Biocromático (Nalthis):** La magia de Nalthis representa una divergencia notable de la regla del trauma. Los Alientos no actúan como "relleno" para una Redespíritu rota, sino como entidades Investidas externas y modulares que se adhieren o superponen a la matriz espiritual intacta de una persona. Esto permite que un individuo almacene una vasta cantidad de poder sin haber sufrido daño previo, como es el caso de **Susebron, el Rey Dios de Hallandren**, quien alberga una cantidad masiva de Alientos puramente por transferencia pacífica (gracias a la 10ª Elevación con ≥ 50.000 alientos ).
+- #### **Despertar y Aliento Biocromático (Nalthis):** 
+- La magia de Nalthis representa una divergencia notable de la regla del trauma. Los Alientos no actúan como "relleno" para una Redespíritu rota, sino como entidades Investidas externas y modulares que se adhieren o superponen a la matriz espiritual intacta de una persona. Esto permite que un individuo almacene una vasta cantidad de poder sin haber sufrido daño previo, como es el caso de **Susebron, el Rey Dios de Hallandren**, quien alberga una cantidad masiva de Alientos puramente por transferencia pacífica (gracias a la 10ª Elevación con ≥ 50.000 alientos ).
 
 ## ⚖️ Clasificación Termodinámica
 Las Artes Investidas se clasifican de manera estricta según el cambio neto en la cantidad de Investidura que experimenta el universo local durante su uso pues siguen las [[Investidura_y_Leyes_de_Khriss|Leyes de Khriss]].
